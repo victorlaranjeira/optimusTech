@@ -1,0 +1,39 @@
+.vagas{
+    display: flex;
+    flex-direction: column;
+    padding: 0 15rem 0 15rem;
+}
+
+.vagas-titulo{
+    color: #101828;
+    font-size: 20px;
+    margin-bottom: 2rem;
+    font-weight: 500;
+}
+
+.divisao{
+    border: 1px solid #EAECF0;
+    border-radius: 20px;
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
+
+.separar__texto{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.paragrafo__vagas{
+    margin-right: 1rem;
+    color: #667085;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.descricao__vaga{
+    color: #101828;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}

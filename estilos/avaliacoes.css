@@ -1,0 +1,29 @@
+.avaliacoes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 5rem 2rem 5rem;
+    
+}
+
+.avaliacoes__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #C3191908;
+    text-align: center;
+    padding: 2rem;
+}
+
+.julia__castro{
+    font-size: 16px;
+    color: #101828;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.desenvolvedor__web{
+    font-size: 14px;
+    color: #667085;
+}
+
